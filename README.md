@@ -26,7 +26,7 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 
 <h3 align="center">----- Connect with me -----</h3>
 <p align="center">
-<a href="https://twitter.com/adrishnaskar" target="blank"><img align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="adrishnaskar" height="30" width="40" /></a>
+<a href="https://twitter.com/adrishnaskar" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png" alt="adrishnaskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adrishnaskar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="adrishnaskar" height="30" width="40" /></a>
 <a href="https://instagram.com/adrishnaskar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="40" /></a>
 </p>
