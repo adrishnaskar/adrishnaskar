@@ -31,6 +31,6 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <a href="https://instagram.com/adrishnaskar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="30" /></a>
 </p>
 <h3 align="center">---------- My Skills ----------</h3>
-<img align="center" src="https://www.sqlsplus.com/wp-content/uploads/2020/09/10-major-SQL-programming-errors-and-how-to-avoid-them.jpg" alt="sql" height="40" width="100" />
-<img align="center" src="https://sereviso.com/wp-content/uploads/2018/06/power-bi-1.jpg" alt="power-bi" height="40" width="100" />
+<img align="center" src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
+<img align="center" src="https://lh3.googleusercontent.com/proxy/pHLECB1amdTsBSORa4BHBIEtyPVVu2RaN4n4LMqbER3o-GSOVCmWQxV8Yn-N6k8z1aHzmaLtlDbjkfs2TMWO86RNWj5cvEuWRmfCj_PkN5gUyklQvxup5xzsX7o6" alt="power-bi" height="50" width="50" />
 
