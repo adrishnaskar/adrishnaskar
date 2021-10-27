@@ -24,13 +24,13 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 - 💼 I'm Looking for Data Analyst or Web Development related Jobs
 - 📧 Reach me at: hiadrish@gmail.com
 
-<h3 align="center">---------- Connect with me ----------</h3>
+<h3>Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/adrishnaskar" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png" alt="adrishnaskar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/adrishnaskar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="adrishnaskar" height="30" width="30" /></a>
 <a href="https://instagram.com/adrishnaskar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="30" /></a>
 </p>
-<h3 align="center">---------- My Skills ----------</h3>
-<img align="center" src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
-<img align="center" src="https://lh3.googleusercontent.com/proxy/pHLECB1amdTsBSORa4BHBIEtyPVVu2RaN4n4LMqbER3o-GSOVCmWQxV8Yn-N6k8z1aHzmaLtlDbjkfs2TMWO86RNWj5cvEuWRmfCj_PkN5gUyklQvxup5xzsX7o6" alt="power-bi" height="50" width="50" />
+<h3>My Skills:</h3>
+<img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
+<img src="https://lh3.googleusercontent.com/proxy/pHLECB1amdTsBSORa4BHBIEtyPVVu2RaN4n4LMqbER3o-GSOVCmWQxV8Yn-N6k8z1aHzmaLtlDbjkfs2TMWO86RNWj5cvEuWRmfCj_PkN5gUyklQvxup5xzsX7o6" alt="power-bi" height="50" width="50" />
 
