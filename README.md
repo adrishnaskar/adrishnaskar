@@ -38,6 +38,6 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a>
 <a href="#">
-<img src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?mode=scale&q=90&h=300&w=300" alt="power-bi" height="50" width="50" />
+<img src="https://lh3.googleusercontent.com/proxy/1c8KTctmmRUQ_1x1J2gnfoRQ3kkSbS68GLz3f0ct5n3Qw11KBbUMuLO27MRKYezLOOnZzZ50fCca0qJ9pa7hSyaOc_DVhKFRizzvuHpbADYsjYccUtLAzDACuU_I" alt="power-bi" height="50" width="50" />
 </a>
 
