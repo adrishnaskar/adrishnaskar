@@ -31,9 +31,9 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <a href="https://instagram.com/adrishnaskar" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="30" /></a>
 </p>
 <h3>My Skills:</h3>
-<a href="#">
+<!-- <a href="#">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="50" width="50" />
-</a>
+</a> -->
 <a href="#">
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a>
