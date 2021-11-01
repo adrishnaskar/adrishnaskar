@@ -38,6 +38,6 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a>
 <a href="#">
-<img src="https://kyligence.io/wp-content/uploads/2019/02/partners-logo-Power-BI.png" alt="power-bi" height="50" width="50" />
+<img src="https://www.pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" alt="power-bi" height="50" width="100" />
 </a>
 
