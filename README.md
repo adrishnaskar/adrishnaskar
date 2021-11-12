@@ -28,7 +28,8 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <p>
 <a href="https://twitter.com/adrishnaskar" target="blank"><img src="https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png" alt="adrishnaskar" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/adrishnaskar" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="adrishnaskar" height="30" width="30" /></a>
-<a href="https://instagram.com/adrishnaskar" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="30" /></a>
+  <!--
+<a href="https://instagram.com/adrishnaskar" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" alt="adrishnaskar" height="30" width="30" /></a> -->
 </p>
 <h3>My Skills:</h3>
 <!-- <a href="#">
