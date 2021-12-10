@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Adrish Naskar working as a Data Analyst. I love building cool things. Currently Learning Web Development to build a new site. I love teaching people what I know.
+Hey, I'm Adrish Naskar a passionate Flutter Developer & Data Analyst. I love building cool things & teaching people what I know. Currently looking to join an early-stage startup.
 
 Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 
-- 📊 I’m currently working as a Data Analyst
-- 🌐 I’m currently learning Advanced Data Analytics & Web Development
-- 💼 I'm Looking for Data Analyst or Web Development related Jobs
+- 📊 I’m currently working as a freelance Data Analyst
+- 🌐 I’m currently learning Advanced Mobile App Development & Web Development
+- 🚀 I'm looking to join an early-stage startup and help it grow with my skills
 - 📧 Reach me at: hiadrish@gmail.com
 
 <h3>Connect with me</h3>
