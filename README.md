@@ -36,19 +36,32 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="50" width="50" />
 </a> -->
 
-<a href="#">
+<!-- <a href="#">
 <img src="https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png" alt="flutter" height="50" width="100" />
+</a> -->
+
+<!-- <a href="#">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqUtN-NEwYAi_gIppgkTJm3jNLvEgp7K-SkJOi74712SaeyAt8Bn-YdHOBjLU3UP-n3w&usqp=CAU" alt="dart" height="50" width="100" />
+</a> -->
+
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="50" width="50" />
 </a>
 
 <a href="#">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqUtN-NEwYAi_gIppgkTJm3jNLvEgp7K-SkJOi74712SaeyAt8Bn-YdHOBjLU3UP-n3w&usqp=CAU" alt="dart" height="50" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="50" width="50" />
+</a>
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="50" width="50" />
+</a>
+
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" height="50" width="50" />
 </a>
 
 <a href="#">
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a>
 
-<a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="50" width="50" />
-</a>
+
 
