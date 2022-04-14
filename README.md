@@ -51,8 +51,18 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <a href="#">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="50" width="50" />
 </a>
+
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50" width="50" />
+</a>
+
+
 <a href="#">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="50" width="50" />
+</a>
+
+<a href="#">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node-js" height="50" width="100" />
 </a>
 
 <a href="#">
