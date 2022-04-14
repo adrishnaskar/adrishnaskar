@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, I'm Adrish Naskar a passionate Flutter Developer & Data Analyst. I love building cool things & teaching people what I know. Currently looking to join an early-stage startup.
+Hey, I'm Adrish Naskar a passionate Web Developer. I love building cool things & teaching people what I know. Currently looking to join an early-stage startup.
 
 Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 
-- 📊 I’m currently working as a freelance Data Analyst
-- 🌐 I’m currently learning Advanced Mobile App Development & Web Development
+- 📊 I’m currently working as Web Dev Intern
+- 🌐 I’m currently learning Web Development
 - 🚀 I'm looking to join an early-stage startup and help it grow with my skills
 - 📧 Reach me at: hiadrish@gmail.com
 
