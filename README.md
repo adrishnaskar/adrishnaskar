@@ -52,9 +52,9 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css" height="50" width="50" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="bootstrap" height="50" width="50" />
-</a>
+</a> -->
 
 
 <a href="#">
@@ -73,5 +73,10 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a>
 
+<a href="#">
+<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" height="50" width="50" />
+</a>
 
-
+<a href="#">
+<img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="firebase" height="50" width="50" />
+</a>
