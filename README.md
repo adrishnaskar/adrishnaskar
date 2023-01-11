@@ -69,9 +69,9 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" height="50" width="50" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
-</a>
+</a> -->
 
 <a href="#">
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" height="50" width="50" />
