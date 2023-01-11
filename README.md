@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey, I'm Adrish Naskar a passionate Web Developer. I love building cool things & teaching people what I know. Currently looking to join an early-stage startup.
 
-Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
+<!-- Favourite Quote: "If it makes you happy it doesn't have to make sense to others" -->
 
 - 📊 I’m currently working as a freelance Web Developer
 - 🌐 I’m currently learning AWS
@@ -62,21 +62,23 @@ Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 </a>
 
 <a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node-js" height="50" width="100" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" height="50" width="50" />
 </a>
 
 <a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue" height="50" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="node-js" height="50" width="80" />
 </a>
+
+
 
 <!-- <a href="#">
 <img src="https://www.mrw.it/img/cope/zfu5pd_1612873042.jpg" alt="sql" height="50" width="50" />
 </a> -->
 
 <a href="#">
-<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" height="50" width="50" />
+<img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" height="50" width="40" />
 </a>
 
 <a href="#">
-<img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="firebase" height="50" width="50" />
+<img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" height="50" width="50" />
 </a>
