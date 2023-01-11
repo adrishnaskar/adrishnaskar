@@ -19,8 +19,8 @@ Hey, I'm Adrish Naskar a passionate Web Developer. I love building cool things &
 
 Favourite Quote: "If it makes you happy it doesn't have to make sense to others"
 
-- 📊 I’m currently working as Web Dev Intern
-- 🌐 I’m currently learning Web Development
+- 📊 I’m currently working as a freelance Web Developer
+- 🌐 I’m currently learning AWS
 - 🚀 I'm looking to join an early-stage startup and help it grow with my skills
 - 📧 Reach me at: hiadrish@gmail.com
 
