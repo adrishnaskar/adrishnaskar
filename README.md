@@ -82,6 +82,6 @@ Hey, I'm Adrish Naskar a passionate Web Developer. I love building cool things &
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" alt="firebase" height="50" width="40" />
 </a>
 
-<a href="#">
+<!-- <a href="#">
 <img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" alt="aws" height="50" width="50" />
-</a>
+</a> -->
